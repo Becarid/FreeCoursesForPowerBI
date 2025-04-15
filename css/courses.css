@@ -595,7 +595,7 @@ nav {
 
 
 .why-choose-us-content {
-    background-image: url('/public/images/why-choose-us.png');
+    background-image: url('../public/images/why-choose-us.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
